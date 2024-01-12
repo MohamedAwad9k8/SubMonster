@@ -1,7 +1,7 @@
 # SubMonster
 SubMonster ..... Passive Subdomain Enumeration Made Easy!!!
 
-SubMonster is a simple and light yet effictive tool for the Recon phase.
+SubMonster is a simple and light yet effictive tool for the Recon phase during web security assessments.
 It's a script that automates the process of passive subdomain enumeration to get a list of available subdomains on the given target within minutes.
 The script is built using modular programming, allowing for ease of extensiotn, each module represents one source for data to be harvested from.
 Currently I'm using two sources only. If you like the tool feel free to add more modules from your favorite data sources.
